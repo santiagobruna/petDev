@@ -4,7 +4,7 @@ Projeto desenvolvido com Next.js e TypeScript, simulando uma loja virtual voltad
 ## 🚀 Tecnologias Utilizadas
 - NextJs - Biblioteca para construção de interfaces.
 - TypeScript - Superconjunto tipado de JavaScript.
-- Tailwind CSS -
+- Tailwind CSS -  Utilizado para estilização dinâmica e moderna.
 
 ## 📸 Demonstração
 ![petDev](https://github.com/user-attachments/assets/f30fe04b-c619-4002-a362-5363118557b8)
